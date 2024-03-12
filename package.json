@@ -1,0 +1,21 @@
+{
+  "name": "14-social-network-api",
+  "version": "1.0.0",
+  "description": "A back-end API for social networking",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test jest",
+    "start": "node server.js",
+    "seed": "node utils/seed",
+    "dev": "nodemon server.js"
+  },
+  "author": "Aleah White",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
