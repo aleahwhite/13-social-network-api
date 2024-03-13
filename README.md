@@ -14,12 +14,12 @@ This is a back-end API for social networking. This API was built using JavaScrip
 - [License](#license)
 
 ## Images/Videos/Links
-Here are some examples of me updating and adding thoughts... For more checkout my walk-through video [here]()
+Here are some examples of me updating and adding thoughts... For more checkout my walk-through video [here](https://drive.google.com/file/d/14Z4CLzh9S2StMjFUkv0hJL-Y1koQXq1n/view?usp=sharing)
 ![alt text](<assets/Screenshot 2024-03-12 at 5.15.13 PM.png>)
 ![alt text](<assets/Screenshot 2024-03-12 at 5.24.29 PM.png>)
 
 ## Usage
-To use this API for social networking, clone this repository to your local machine. Then open the integrated terminal in VSCode and run 'npm i' to install the dependencies in the package.json file, after that run 'npm run seed' to seed the database. Now you are ready for 'npm start' which will run the server.js file and run the local server. You can then use ThunderClient the extension in VSCode to request GET, POST, PUT, and DELETE methods to see, make new, update, and delete users, thoughts, friends, and reactions.
+To use this API for social networking, clone this repository to your local machine. Then open the integrated terminal in VSCode and run 'npm i' to install the dependencies in the package.json file, after that run 'npm run seed' to seed the database. Now you are ready for 'npm start' which will run the server.js file and run the local server. You can then use ThunderClient the extension in VSCode to request GET, POST, PUT, and DELETE methods to see, make new, update, and delete users, thoughts, friends, and reactions. 
 
 ## Credits
 - Express.js
